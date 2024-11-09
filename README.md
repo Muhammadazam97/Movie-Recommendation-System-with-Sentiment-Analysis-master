@@ -33,7 +33,8 @@ Don't worry if your desired movie isn’t auto-suggested—just type the name an
 7. Hurray! The project should be running.
 
 ## Project Architecture
-![Alt Text](C:\Users\Azam\.vscode\Projects\Movie-Recommendation-System-with-Sentiment-Analysis-master\Arcitecture.PNG)
+![Architecture Diagram](https://github.com/Muhammadazam97/Movie_Recommendation_System_with_Sentiment_Analysis_master/blob/main/Arcitecture.PNG?raw=true)
+
 
 
 ## Similarity Score
@@ -42,7 +43,7 @@ The recommender system uses similarity scores to determine the most similar movi
 ### Cosine Similarity
 Cosine similarity is used to calculate the similarity between documents, regardless of their size. It measures the cosine of the angle between two vectors projected in a multi-dimensional space, where a smaller angle signifies greater similarity. Cosine similarity is particularly useful as it remains reliable even if two documents are significantly different in length.
 
-![Alt Text](C:\Users\Azam\.vscode\Projects\Movie-Recommendation-System-with-Sentiment-Analysis-master\Cosine.PNG)
+![Cosine Diagram](https://github.com/Muhammadazam97/Movie_Recommendation_System_with_Sentiment_Analysis_master/blob/main/Cosine.PNG)
 
 Learn more about [Cosine Similarity here](https://www.machinelearningplus.com/nlp/cosine-similarity/).
 
